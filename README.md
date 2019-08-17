@@ -1,4 +1,3 @@
-# twadr
-<version 1.01>
-
-<End version 1.01>
+<Version: 1.01>
+/data/Actors.json
+<End of version>
