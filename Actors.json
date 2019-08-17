@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"主角3","characterIndex":0,"characterName":"主角1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"主角 (2)","traits":[],"initialLevel":1,"maxLevel":5,"name":"叶寂离","nickname":"","note":"<AFS Leader>","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"医生","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"林1","traits":[],"initialLevel":1,"maxLevel":99,"name":"林晓","nickname":"医生","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"总裁CEO","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"楚渊","traits":[],"initialLevel":1,"maxLevel":99,"name":"楚渊","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"鸭舌帽","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"黎2","traits":[],"initialLevel":1,"maxLevel":99,"name":"黎晨熙","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"打工1","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"白-初期","traits":[],"initialLevel":1,"maxLevel":99,"name":"白一轩","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"邻居","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"秦1","traits":[],"initialLevel":1,"maxLevel":99,"name":"秦笑","nickname":"","note":"","profile":""}
+]
