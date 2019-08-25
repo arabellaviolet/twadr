@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"expanded":false,"name":"导入","order":19,"parentId":0,"scrollX":1092,"scrollY":599.3333333333334},
+{"id":2,"expanded":true,"name":"Hospital","order":1,"parentId":0,"scrollX":2806.6666666666665,"scrollY":1304.6666666666667},
+null,
+{"id":4,"expanded":false,"name":"Item Shop","order":2,"parentId":2,"scrollX":1092,"scrollY":599.3333333333334},
+{"id":5,"expanded":false,"name":"Office 1F","order":3,"parentId":2,"scrollX":1081.3333333333333,"scrollY":840.6666666666666},
+{"id":6,"expanded":false,"name":"CEO office","order":5,"parentId":2,"scrollX":1092,"scrollY":599.3333333333334},
+{"id":7,"expanded":true,"name":"Suburbs","order":6,"parentId":0,"scrollX":1081.3333333333333,"scrollY":788},
+{"id":8,"expanded":false,"name":"Park","order":7,"parentId":7,"scrollX":1092,"scrollY":599.3333333333334},
+{"id":9,"expanded":false,"name":"Home","order":8,"parentId":7,"scrollX":1092,"scrollY":600},
+{"id":10,"expanded":true,"name":"Business District","order":9,"parentId":0,"scrollX":1081.3333333333333,"scrollY":946.6666666666666},
+{"id":11,"expanded":false,"name":"Hospital","order":4,"parentId":2,"scrollX":1081.3333333333333,"scrollY":601.3333333333334},
+{"id":12,"expanded":false,"name":"CEO home","order":11,"parentId":10,"scrollX":1081.3333333333333,"scrollY":706},
+{"id":13,"expanded":true,"name":"Downtown","order":15,"parentId":0,"scrollX":1366.6666666666667,"scrollY":1811.3333333333333},
+{"id":14,"expanded":false,"name":"Big House 2F","order":10,"parentId":10,"scrollX":1081.3333333333333,"scrollY":840.6666666666666},
+{"id":15,"expanded":false,"name":"MAP020","order":13,"parentId":10,"scrollX":1092,"scrollY":600},
+{"id":16,"expanded":false,"name":"民居 1","order":18,"parentId":13,"scrollX":1081.3333333333333,"scrollY":600.6666666666666},
+{"id":17,"expanded":false,"name":"Old Home","order":16,"parentId":13,"scrollX":1092,"scrollY":599.3333333333334},
+{"id":18,"expanded":false,"name":"Old Home","order":17,"parentId":13,"scrollX":1092,"scrollY":599.3333333333334},
+{"id":19,"expanded":false,"name":"MAP019","order":12,"parentId":12,"scrollX":1081.3333333333333,"scrollY":670},
+{"id":20,"expanded":false,"name":"CEO","order":14,"parentId":10,"scrollX":1092,"scrollY":599.3333333333334}
+]
